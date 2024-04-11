@@ -43,7 +43,7 @@ Was able to add server.js file and routers files but code is incomplete
 
 Unsure how to deploy application
 
-GitHub link -
+GitHub link - https://github.com/RinOrtega/Note-Taker
 
 ## Personal Notes
 
