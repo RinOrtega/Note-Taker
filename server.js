@@ -8,3 +8,7 @@ app.use(express.urlencoded({extended: true}));
 app.use(express.json());
 app.use(html_routes);
 app.use(api_routes);
+
+app.listen(PORT, () => {
+    console.log(' On http://localhost:${PORT}');
+});
